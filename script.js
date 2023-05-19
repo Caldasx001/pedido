@@ -22,7 +22,7 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
   }
 
 function tanks() {
-alert("MUITO BOM :)")
+alert("Me chama no whatsapp, 21969675753")
 }  
 
 function not() {
